@@ -442,10 +442,11 @@ nav li a {
 
 .capsul-card:hover{
   border-radius: 50px;
-  border: 1px tomato solid;
+  border: 1px #df1a90 solid;
   cursor: pointer;
+}
+.text:hover{
   color: #df1a90;
- 
 }
 
 
