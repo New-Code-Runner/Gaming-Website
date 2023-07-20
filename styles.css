@@ -603,13 +603,14 @@ footer {
     align-items: center;
     text-align: center;
     padding: 0px;
+    background-color: #fff;
   }
 
   .gamer-poster {
     width: 100%;
     height: 100%;
     padding: 0px 20px;
-    background-color: white;
+    background-color: #fff;
   }
 
   .gamer-poster img {
@@ -619,5 +620,85 @@ footer {
   .gamer-poster-intro {
     width: 100%;
     height: auto;
+    background-color: #fff;
   }
+
+  .gamer-head{
+    font-size: 30px ;
+    text-align: center;
+  }
+
+  .gamer-detail{
+    font-size: 15px ;
+    text-align: center;
+    padding: 10px 80px ;
+
+  }
+  .gamer-btn{
+    margin-top: 0px;
+    margin-right:225px ;
+    font-size: 12px;
+    padding: 10px 20px
+  }
+
+
+  .gamer-purpose{
+    font-size:18px ;
+    text-align: center;
+
+  }
+  .gamer-quotes{
+    font-size: 20px ;
+    
+  }
+
+  .online-games-container{
+    width: 100%;
+    height: auto;
+
+  }
+  .game-videos{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+  }
+  .online-game-heading, .heading-color{
+    font-size: 25px ;
+
+  }
+
+  .online-game-text, .card-text{
+    font-size: 12px ;
+    text-align: center;
+
+  }
+
+  .play-instanly-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px;
+    
+
+  }
+  .play-instantly-cards{
+    
+  }
+
+
+
+
+
+
+
+
 }
